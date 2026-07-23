@@ -41,20 +41,20 @@ The GitHub contribution graph reflects ongoing engineering and research activity
 
 ## Technology
 
-- MQL5
-- MetaTrader 5
-- Git
-- GitHub
-- Python
-- Quantitative Research
-- Algorithmic Trading
-
+MQL5
+MetaTrader 5
+Python
+Git
+GitHub
+Quantitative Research
+Algorithmic Trading
 ---
 
 ## Connect
 
-https://www.linkedin.com/in/krishverase
+💼 LinkedIn
 
+https://www.linkedin.com/in/krishverase
 ---
 
 
