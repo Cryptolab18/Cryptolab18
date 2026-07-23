@@ -2,14 +2,13 @@
   <img src="./banner.png" alt="UNDERCOVER ATI-K Banner" width="100%">
 </p>
 
-
-### Systematic Alpha Generation | Quantitative Architecture
+## 🔗 Systematic Alpha Generation | Quantitative Architecture
 
 Building deterministic, rule-based quantitative trading systems with a strong focus on market structure, vector physics, adaptive intelligence, and disciplined engineering.
 
 ---
 
-## Current Focus
+## 🔗 Current Focus
 
 - UNDERCOVER ATI-K™
 - Quantitative Research
@@ -20,7 +19,7 @@ Building deterministic, rule-based quantitative trading systems with a strong fo
 
 ---
 
-## Engineering Principles
+## 🔗 Engineering Principles
 
 - Deterministic Logic
 - Rule-Driven Architecture
@@ -31,31 +30,32 @@ Building deterministic, rule-based quantitative trading systems with a strong fo
 
 ---
 
-## Project Status
+## 🔗 Project Status
 
-Primary architecture, engine development, and research repositories are maintained as **Private** to protect proprietary intellectual property.
+Primary architecture, engine development, and research repositories are maintained as *Private* to protect proprietary intellectual property.
 
 The GitHub contribution graph reflects ongoing engineering and research activity.
 
 ---
 
-## Technology
+## 🔗 Technology
 
-MQL5
-MetaTrader 5
-Python
-Git
-GitHub
-Quantitative Research
-Algorithmic Trading
+- MQL5
+- MetaTrader 5
+- Python
+- Git
+- GitHub
+- Quantitative Research
+- Algorithmic Trading
+
 ---
 
-## Connect
+## 🔗 Connect
 
 💼 LinkedIn
 
 https://www.linkedin.com/in/krishverase
+
 ---
 
-
-Engineering proprietary quantitative intelligence  one deterministic rule at a time.
+> Engineering proprietary quantitative intelligence — one deterministic rule at a time.
