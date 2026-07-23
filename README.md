@@ -50,12 +50,9 @@ The GitHub contribution graph reflects ongoing engineering and research activity
 
 ## Connect
 
-💼 LinkedIn
-
 https://www.linkedin.com/in/krishverase
 
 ---
 
-> Building systems. Not signals.
->
+
 Engineering proprietary quantitative intelligence  one deterministic rule at a time.
