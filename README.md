@@ -1,3 +1,20 @@
+<div align="center">
+
+# UNDERCOVER
+
+### ATI-K™
+
+*Deterministic Quantitative Intelligence*
+
+Systematic Alpha Generation
+
+</div>
+
+---
+
+---
+
+##
 # UNDERCOVER
 
 ### Systematic Alpha Generation | Quantitative Architecture
