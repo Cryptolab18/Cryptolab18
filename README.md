@@ -58,3 +58,4 @@ https://www.linkedin.com/in/krishverase
 
 > Building systems. Not signals.
 >
+Engineering proprietary quantitative intelligence  one deterministic rule at a time.
