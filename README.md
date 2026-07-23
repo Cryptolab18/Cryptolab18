@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./banner.png" alt="UNDERCOVER ATI-K Banner" width="100%">
 </p>
-# UNDERCOVER
+
 
 ### Systematic Alpha Generation | Quantitative Architecture
 
