@@ -63,26 +63,20 @@ Core research repositories remain private to protect proprietary intellectual pr
 
 ## Engineering Roadmap
 
-UNDERCOVER ATI-K™ is being developed through a structured multi-phase engineering roadmap.
-
-The roadmap below reflects the planned sequence of system development while keeping core research, strategy logic, execution rules, and protected implementation repositories private.
+UNDERCOVER ATI-K™ is being developed through a structured engineering roadmap while keeping core research, strategy logic, execution rules, and protected implementation repositories private.
 
 | Timeline | Engineering Phase | Status |
 |---|---|---|
-| March 2026 – August 2026 | Advanced Trend Intelligence Engine | In Progress / Final Stage |
-| September 2026 | Trading Operating System | Planned |
+| March 2026 – August 2026 | Advanced Trend Intelligence Engine | Final Stage |
+| August 2026 – September 2026 | Trading Operating System | Planned |
 | October 2026 | Strategy Group A Architecture | Planned |
-| November 2026 | Strategy Group B Architecture | Planned |
-| December 2026 | Strategy Group C Architecture | Planned |
-| January 2027 | Backtesting / Forward Testing | Planned |
-| February 2027 | Live Account Testing | Planned |
-| March 2027 – April 2027 | Python Intelligence Layer Integration | Planned |
-| May 2027 – June 2027 | Web Authentication, Licensing & Dashboard Layer | Planned |
+| November 2026 | Strategy Group B & Group C Architecture | Planned |
+| December 2026 | Backtesting / Forward Testing | Planned |
+| December 2026 – January 2027 | Live Account Testing | Planned |
+| February 2027 | Python Intelligence Layer Integration | Planned |
+| March 2027 | Web Authentication, Licensing & Dashboard Layer | Planned |
 
-This public roadmap provides only a high-level view of the engineering direction.
-
-It does not expose proprietary source code, execution rules, strategy logic, protected architecture, or internal research components.
-
+This public roadmap provides only a high-level view of the engineering direction and does not expose proprietary source code, strategy logic, execution rules, or protected research components.
 
 
 ##  Project Status
