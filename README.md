@@ -2,13 +2,13 @@
   <img src="./banner.png" alt="UNDERCOVER ATI-K Banner" width="100%">
 </p>
 
-## 🔗 Systematic Alpha Generation | Trading Operating System Architecture
+##  Systematic Alpha Generation | Trading Operating System Architecture
 
 Building deterministic, rule-based quantitative trading systems with a strong focus on market structure, vector physics, adaptive intelligence, and disciplined engineering.
 
 ---
 
-## 🔗 Current Focus
+##  Current Focus
 
 - UNDERCOVER ATI-K™
 - ATI Engine Research
@@ -20,7 +20,7 @@ Building deterministic, rule-based quantitative trading systems with a strong fo
 - Web Authentication & Licensing Architecture
 ---
 
-## 🔗 Engineering Principles
+##  Engineering Principles
 
 - Deterministic Logic
 - Rule-Driven Architecture
@@ -47,7 +47,7 @@ The architecture is designed around layered decision governance:
 Core research repositories remain private to protect proprietary intellectual property.
 
 
-## 🔗 Project Status
+##  Project Status
 
 Primary architecture, engine development, strategy research, and implementation repositories are maintained as Private to protect proprietary intellectual property.
 
@@ -57,7 +57,7 @@ The GitHub contribution graph reflects ongoing engineering, documentation, archi
 
 ---
 
-## 🔗 Technology
+##  Technology
 
 - MQL5
 - MetaTrader 5
