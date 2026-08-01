@@ -30,20 +30,6 @@ Building deterministic, rule-based quantitative trading infrastructure with a st
 - Proprietary Research Protection
 - Long-Term Engineering Discipline
 ---
-## Architecture Direction
-
-UNDERCOVER ATI-K™ is being developed as a proprietary trading intelligence ecosystem, not a conventional single-strategy trading bot.
-
-The architecture is designed around layered decision governance:
-
-- ATI Engine for adaptive trend intelligence research
-- Trading Operating System for centralized decision control
-- Modular strategy architecture
-- Risk, execution, and recovery governance
-- Future Python Intelligence Layer for analytics, reporting, and research memory
-- Future Web Authentication layer for access control, licensing, and dashboard infrastructure
-
-Core research repositories remain private to protect proprietary intellectual property.
 
 
 ## Architecture Direction
