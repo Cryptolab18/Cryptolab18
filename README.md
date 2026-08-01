@@ -4,8 +4,7 @@
 
 ##  Systematic Alpha Generation | Trading Operating System Architecture
 
-Building deterministic, rule-based quantitative trading systems with a strong focus on market structure, vector physics, adaptive intelligence, and disciplined engineering.
-
+Building deterministic, rule-based quantitative trading infrastructure with a strong focus on market structure, adaptive trend intelligence, execution governance, and disciplined engineering.
 ---
 
 ##  Current Focus
